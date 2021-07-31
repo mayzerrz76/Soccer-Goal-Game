@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603335225 source:c:\users\win10 vmw\documents\csc 222\labs and progs\ryanmay_midterm\main.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+
